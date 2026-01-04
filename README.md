@@ -1,23 +1,49 @@
-## Hi 👋 I'm Kabbo
+<h1 align="center">
+  Hi 👋, I'm Kabbo
+</h1>
 
-Frontend developer learning and building with  
-**HTML, CSS, JavaScript**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;HTML+CSS+JavaScript;Learning+Every+Day+🚀&center=true&width=450&height=45">
+</p>
 
-### 🚀 What I do
-- Build small frontend projects
-- Practice JavaScript DOM & logic
-- Learn by doing, every day
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge">
+</p>
 
-### 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
+---
 
-### 📌 Featured Projects
-- Notes App
-- Todo List
-- Expense Tracker
-- API Fetch Demo
-- Pagination UI
+## 🚀 About Me
+- 🔹 Frontend developer focused on **clean UI & logic**
+- 🔹 Build small projects to learn real-world JavaScript
+- 🔹 Strong in **DOM, Events & basic APIs**
 
-📫 Always learning & improving
+---
+
+## 🛠️ Tech Stack
+- 🌐 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
+
+---
+
+## 📌 Featured Projects
+- 📝 Notes App  
+- ✅ Todo List  
+- 💰 Expense Tracker  
+- 🌍 API Fetch Demo  
+- 📄 Pagination UI  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kabbo109&show_icons=true&theme=tokyonight">
+</p>
+
+---
+
+<p align="center">
+  🚀 Always learning & improving
+</p>
