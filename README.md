@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hi 👋, I'm Kabbo
+# Hi there 💖
+, I'm Kabbo
 </h1>
 
 <p align="center">
